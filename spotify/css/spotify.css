@@ -1,0 +1,116 @@
+body
+{
+	background-color: black;
+	
+}
+#menu
+{
+	width: 100%;
+	height: 40px;
+	background: black;
+}
+#cir
+{
+	height: 30px;
+	width: 30px;
+	background: white;
+	border-radius: 30px 30px 30px 30px ;
+	margin-left: 5px;
+margin-top:5px;
+background-image: url(../images/lg.jpeg);
+	background-size: cover;
+}
+#menu ul
+{
+list-style-type: none;
+margin-top: -45px;	
+margin-left: 60px;
+}
+#menu ul a
+{
+	text-decoration: none;
+}
+#menu ul a li 
+{
+
+	display: inline-block;
+	width: 60px;
+	text-align: center;
+	border: 1px solid black;
+	padding: 7px;
+	color: white;
+	background: black;
+	
+}
+#menu ul li:hover
+{
+	color: black;
+	background: white;
+}
+#main
+{
+	height: 600px;
+	width: 900px;
+	margin-top: 10px;
+	background: black;
+	margin-left: 290px;
+}
+	
+#aa
+{
+	height: 400px;
+	width: 750px;
+	background-image: url(../images/music.png);
+	background-size: cover;
+}
+
+.bar
+{
+	width: 400px;
+	height: 35px;
+	margin-left: 20px;
+	margin-top: 30px;
+	border-radius: 30px;
+	
+}
+.bar img
+{
+	background-size:cover;
+	height: 35px;
+	width:35px;
+
+}
+.circle
+{
+    width: 34px;
+	height: 34px;
+	background: white;
+	margin-left: 2px;
+	margin-top: 10px;
+	border-radius: 30px;
+	
+}
+audio
+{
+	height: 30px;
+	width: 250px;
+	margin-left: 45px;
+	margin-top: -32px;
+}
+p
+{
+	color: white;
+	margin-top: -370px;
+	margin-left: 30px;
+}
+
+#footer
+{
+	width: 100%;
+	height: 40px;
+	background: black;
+	margin-top: 40px;
+	
+	
+	
+}
